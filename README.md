@@ -1,7 +1,7 @@
 # Python-String-Alphanum-Sort
 [![Python](https://img.shields.io/badge/python-2.7.1-blue.svg?style=popout)](https://www.python.org/downloads/release/python-271/)
 [![Python](https://img.shields.io/badge/python-3.4.0-blue.svg?style=popout)](https://www.python.org/downloads/release/python-340/)
-![build](https://travis-ci.org/dyhe83/Python-String-Alphanum-Sort.svg?branch=master)
+[![build](https://travis-ci.org/dyhe83/Python-String-Alphanum-Sort.svg?branch=master)](https://travis-ci.org/dyhe83/Python-String-Alphanum-Sort)
 
 
 ## Introduction
@@ -15,7 +15,7 @@
 
 ## How to use
 ```sh
-git clone https://github.com/dyhe83/Python-String-Alphanum-Sort.git
+git clone https://github.com/dyhe83/Python-String-Alphanum-Sort.git --depth=1
 cd Python-String-Alphanum-Sort
 
 python alphanum.py

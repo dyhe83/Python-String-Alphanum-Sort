@@ -5,7 +5,7 @@
 
 
 ## Introduction
-* A python version alphanumeric sorter.
+* A Python version alphanumeric sorter.
 * this program is modified from http://www.davekoelle.com/files/alphanum.py_v2.4
 * [Alphanum algorithm](http://www.davekoelle.com/alphanum.html)
 * Support
